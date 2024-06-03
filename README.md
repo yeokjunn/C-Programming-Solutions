@@ -5,6 +5,6 @@ This repository is a compilation of SC1007 Data Structures & Algorithms Assignme
 
 Do note that these solutions are written by me personally, and may not (definitely not) be the most efficient solutions out there.
 
-Hope this helped! This mod ended my will to live.
+Hope this helped!
 
 Happy coding :)
